@@ -1,1 +1,1 @@
-# medtech-An-AI-medical-assistant
+# Medtech-An-AI-medical-assistant
