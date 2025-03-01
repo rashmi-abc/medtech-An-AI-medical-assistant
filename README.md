@@ -28,17 +28,17 @@ MeDTech can be deployed in multiple formats:
 - **Mobile App**: Allows users to access healthcare services on the go.
 
 ## Technologies Used
-- **Backend**: Node.js, Express.js, MongoDB
-- **Frontend**: React.js, Tailwind CSS
+- **Backend**: Python
+- **Frontend**: Streamlit
 - **AI Model**: Custom-trained skin disease detection model (Roboflow)
-- **Cloud Services**: Firebase, AWS S3
+- **Cloud Services**: Firebase
 - **Communication**: Twilio API for SMS notifications
 
 ## Installation & Setup
 ### Prerequisites
 Ensure you have the following installed:
-- Node.js
-- MongoDB
+- Streamlit
+- Flutter(For app)
 - Python (for AI model integration)
 
 ### Clone the Repository
